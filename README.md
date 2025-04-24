@@ -94,7 +94,7 @@ cmsdk_ahb_gpio (top)
 ```
 
 ```
-User@System:~/<path>/APBRST$ python3 verilog2spec.py python3 verilog2spec.py ./verilog/fifo.v 
+User@System:~/<path>/APBRST$ python3 verilog2spec.py ./verilog/fifo.v 
 Generating LALR tables
 WARNING: 183 shift/reduce conflicts
 
